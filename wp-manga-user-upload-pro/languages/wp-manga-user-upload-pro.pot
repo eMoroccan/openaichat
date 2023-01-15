@@ -1,0 +1,702 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Manga Member Upload PRO\n"
+"POT-Creation-Date: 2019-10-13 21:29+0700\n"
+"PO-Revision-Date: 2019-08-06 16:59+0700\n"
+"Last-Translator: \n"
+"Language-Team: mangabooth <mangabooth@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/settings-page.php:27
+msgid "Madara - Member Upload PRO License Management"
+msgstr ""
+
+#: admin/settings-page.php:123
+msgid ""
+"Please enter the license key for this product to activate it. You were given "
+"a license key when you purchased this item."
+msgstr ""
+
+#: admin/settings-page.php:146
+#, php-format
+msgid ""
+"Madara - Member Upload PRO has not activated, you should activate this "
+"plugin to use it,  %1$sactivate.%2$s "
+msgstr ""
+
+#: inc/add-manga.php:22 inc/upload-chapter.php:34 inc/upload-chapter.php:148
+msgid "Session expired, please refresh page and try again"
+msgstr ""
+
+#: inc/add-manga.php:27
+msgid "Please attach feature image."
+msgstr ""
+
+#: inc/add-manga.php:33 inc/add-manga.php:187
+msgid "Invalid image file, please check again."
+msgstr ""
+
+#: inc/add-manga.php:42
+msgid "Image resolution is not valid, please check again"
+msgstr ""
+
+#: inc/add-manga.php:88 inc/upload-handler.php:53
+msgid ""
+"There was something wrong, please contact Website Administrator for more "
+"information"
+msgstr ""
+
+#: inc/add-manga.php:91
+msgid "Manga added successfully!"
+msgstr ""
+
+#: inc/add-manga.php:93
+msgid "Manga added successfully! Your manga will be reviewed before published."
+msgstr ""
+
+#: inc/add-manga.php:112 inc/upload-handler.php:126
+msgid "Create Post failed"
+msgstr ""
+
+#: inc/add-manga.php:117
+msgid "Please choose Feature Image"
+msgstr ""
+
+#: inc/add-manga.php:138 inc/edit-handler.php:83
+#: template/shortcodes/upload_manga.php:210
+#: template/tab-items/manga-extra-info.php:167
+msgid "Hot"
+msgstr ""
+
+#: inc/add-manga.php:138 inc/edit-handler.php:83
+#: template/shortcodes/upload_manga.php:210
+#: template/tab-items/manga-extra-info.php:167
+msgid "New"
+msgstr ""
+
+#: inc/admin-pages.php:31 inc/admin-pages.php:36 inc/admin-pages.php:56
+#: template/admin-review-request.php:19
+msgid "Review Requests"
+msgstr ""
+
+#: inc/admin-review-request.php:33 template/shortcodes/upload_manga.php:129
+#: template/tab-items/manga-extra-info.php:44
+msgid "Type"
+msgstr ""
+
+#: inc/admin-review-request.php:34 inc/admin-review-request.php:58
+#: template/upload-settings.php:56
+msgid "Manga"
+msgstr ""
+
+#: inc/admin-review-request.php:35 template/shortcodes/upload_chapters.php:72
+#: template/shortcodes/upload_novel.php:73
+msgid "Chapter number"
+msgstr ""
+
+#: inc/admin-review-request.php:36 template/shortcodes/upload_chapters.php:107
+#: template/shortcodes/upload_novel.php:108
+msgid "Chapter title"
+msgstr ""
+
+#: inc/admin-review-request.php:37
+msgid "User"
+msgstr ""
+
+#: inc/admin-review-request.php:38
+msgid "Actions"
+msgstr ""
+
+#: inc/admin-review-request.php:58
+msgid "Chapter"
+msgstr ""
+
+#: inc/admin-review-request.php:151
+msgid "Accept"
+msgstr ""
+
+#: inc/admin-review-request.php:158
+msgid "Refuse"
+msgstr ""
+
+#: inc/edit-handler.php:120
+msgid "Missing Post ID"
+msgstr ""
+
+#: inc/edit-handler.php:128
+msgid "Missing upload file"
+msgstr ""
+
+#: inc/edit-handler.php:143
+msgid "Please check .zip file structure. It must be multi-chapters .zip file"
+msgstr ""
+
+#: inc/edit-handler.php:238 inc/edit-handler.php:270 inc/edit-handler.php:317
+#: inc/edit-handler.php:359
+msgid "Invalid Data"
+msgstr ""
+
+#: inc/edit-handler.php:352
+msgid "Saved successfully"
+msgstr ""
+
+#: inc/template-include.php:75
+msgid "Add Manga"
+msgstr ""
+
+#: inc/template-include.php:79
+msgid "Upload Chapter"
+msgstr ""
+
+#: inc/template-include.php:110 template/edit-manga.php:28
+msgid "Edit Manga"
+msgstr ""
+
+#: inc/template-include.php:115
+msgid "Edit"
+msgstr ""
+
+#: inc/upload-chapter.php:41 inc/upload-chapter.php:155
+msgid "Please select manga for this chapter"
+msgstr ""
+
+#: inc/upload-chapter.php:43 inc/upload-chapter.php:157
+msgid "Chapter number cannot be empty"
+msgstr ""
+
+#: inc/upload-chapter.php:49 inc/upload-chapter.php:163
+msgid "Chapter number must be numberic"
+msgstr ""
+
+#: inc/upload-chapter.php:58 inc/upload-chapter.php:176
+msgid "Invalid manga, please try again later"
+msgstr ""
+
+#: inc/upload-chapter.php:64 inc/upload-chapter.php:182
+#, php-format
+msgid "Chapter %s"
+msgstr ""
+
+#: inc/upload-chapter.php:78 inc/upload-chapter.php:196
+msgid ""
+"This chapter number is already existed. Please try to upload another chapter"
+msgstr ""
+
+#: inc/upload-chapter.php:96 inc/upload-chapter.php:247
+msgid "Invalid volume"
+msgstr ""
+
+#: inc/upload-chapter.php:133 inc/upload-chapter.php:293
+msgid "Chapter is uploaded successfully. Your chapter is being reviewed"
+msgstr ""
+
+#: inc/upload-chapter.php:136 inc/upload-chapter.php:296
+msgid "Upload failed. Please try again later"
+msgstr ""
+
+#: inc/upload-chapter.php:167
+msgid "Please attach images to chapter"
+msgstr ""
+
+#: inc/upload-handler.php:44
+msgid "Missing Chapter Type"
+msgstr ""
+
+#: inc/upload-handler.php:73
+msgid "<strong>Upload Successfully!</strong><br />"
+msgstr ""
+
+#: inc/upload-handler.php:78
+#, php-format
+msgid "Your post is now published in <a href=\"%s\">here</a>"
+msgstr ""
+
+#: inc/upload-handler.php:85
+#, php-format
+msgid ""
+"Your post is pending, please wait for website admin approve and pubish your "
+"post. Meanwhile, you can preview your post in <a href=\"%s\">here</a>"
+msgstr ""
+
+#: inc/upload-handler.php:101
+msgid "Upload Failed"
+msgstr ""
+
+#: inc/upload-preview.php:56
+msgid ""
+"This zip file only contains single chapter, please upload a valid zip file "
+"for multi chapters."
+msgstr ""
+
+#: template/edit-manga.php:24
+msgid "Back To Manga Page"
+msgstr ""
+
+#: template/edit-manga.php:59 template/edit-page/chapter-edit.php:59
+#: template/edit-page/chapter-edit.php:85
+msgid "Save"
+msgstr ""
+
+#: template/edit-manga.php:71
+msgid "Uploading... This progress might take a few minutes"
+msgstr ""
+
+#: template/edit-page/chapter-edit.php:5
+msgid "Edit Chapter Info"
+msgstr ""
+
+#: template/edit-page/chapter-edit.php:11
+#: template/shortcodes/upload_manga.php:21 template/tab-items/manga-info.php:20
+msgid "Title"
+msgstr ""
+
+#: template/edit-page/chapter-edit.php:20
+msgid "Index"
+msgstr ""
+
+#: template/edit-page/chapter-edit.php:29
+msgid "Other Name"
+msgstr ""
+
+#: template/edit-page/chapter-edit.php:38
+msgid "SEO Description"
+msgstr ""
+
+#: template/edit-page/chapter-edit.php:47
+msgid "Warning Text"
+msgstr ""
+
+#: template/edit-page/chapter-listing.php:23
+msgid "Manga Chapters"
+msgstr ""
+
+#: template/edit-page/chapter-listing.php:48
+#: template/edit-page/chapter-listing.php:112
+msgid "Edit Content"
+msgstr ""
+
+#: template/edit-page/chapter-listing.php:128
+msgid "There is no chapters"
+msgstr ""
+
+#: template/edit-page/chapter-listing.php:146
+msgid "Add Chapters"
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:7
+msgid "Upload Chapters"
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:11
+msgid ""
+"Please choose .zip file to upload that contains <strong>Manga Chapters in "
+"Volumes folder</strong> or <strong>Manga Chapters folders only</strong>. "
+"<strong>Single Chapter zip file</strong> that contains images only "
+"<strong>won't be accepted</strong>."
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:14
+msgid ""
+"In case you want to <strong>upload Chapters in existed Volume</strong>, "
+"please place the Chapters folder in a Volume folder has the same name with "
+"the existed Volume that you want to upload."
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:16
+msgid "Show Sample Zip file."
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:20
+#: template/tab-items/manga-upload.php:58
+msgid "Multi Chapters with Volumes"
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:23
+#: template/tab-items/manga-upload.php:61
+msgid "Multi Chapters with No Volumes"
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:26
+#: template/tab-items/manga-upload.php:64
+msgid "Chapter Text/Video"
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:34
+msgid "Drop files here to upload"
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:35
+msgid "Select file to upload"
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:37
+msgid "Please select file to upload"
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:38
+msgid "Chapters uploaded successfully!"
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:54
+#: template/shortcodes/upload_chapters.php:176
+msgid "Upload"
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:60
+msgid ""
+"Please stay tuned and do not exit this page till the upload progress is "
+"completed"
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:61
+msgid "Upload progress might take serveral minutes..."
+msgstr ""
+
+#: template/edit-page/user-upload-modal.php:66
+msgid "Upload Successfully!"
+msgstr ""
+
+#: template/shortcodes/upload_chapters.php:49
+#: template/shortcodes/upload_novel.php:50
+msgid "Manga name"
+msgstr ""
+
+#: template/shortcodes/upload_chapters.php:60
+#: template/shortcodes/upload_novel.php:61
+msgid "[Pending]"
+msgstr ""
+
+#: template/shortcodes/upload_chapters.php:83
+#: template/shortcodes/upload_novel.php:84
+msgid "Chapter Volume"
+msgstr ""
+
+#: template/shortcodes/upload_chapters.php:87
+#: template/shortcodes/upload_novel.php:88 wp-manga-user-upload.php:186
+msgid "-- No Volume --"
+msgstr ""
+
+#: template/shortcodes/upload_chapters.php:90
+#: template/shortcodes/upload_novel.php:91
+msgid "Create New?"
+msgstr ""
+
+#: template/shortcodes/upload_chapters.php:95
+#: template/shortcodes/upload_novel.php:96
+msgid "New Volume Name"
+msgstr ""
+
+#: template/shortcodes/upload_chapters.php:119
+#: template/shortcodes/upload_novel.php:120
+msgid "Chapter Extend Name"
+msgstr ""
+
+#: template/shortcodes/upload_chapters.php:131
+#: template/shortcodes/upload_novel.php:132
+msgid "Chapter SEO Description"
+msgstr ""
+
+#: template/shortcodes/upload_chapters.php:143
+#: template/shortcodes/upload_novel.php:144
+msgid "Chapter Warning Text"
+msgstr ""
+
+#: template/shortcodes/upload_chapters.php:155
+msgid "Chapter Images"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:32
+msgid "Alternative Name(s)"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:44 template/tab-items/manga-info.php:28
+msgid "Description"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:62
+msgid "Manga Thumbnail"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:68
+msgid ""
+"Minimum aspect ratio: 1:1.5, ideal minimum resolution: 300x450 [Required]"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:70
+#: template/shortcodes/upload_manga.php:88
+msgid "Browse"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:80 template/tab-items/manga-info.php:49
+msgid "Horizontal Thumbnail"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:86
+msgid "Minimum aspect ratio: 1.5:1, ideal minimum resolution 450:300"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:99
+#: template/tab-items/manga-extra-info.php:75
+msgid "Authors"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:104
+#: template/shortcodes/upload_manga.php:119
+#: template/tab-items/manga-extra-info.php:80
+#: template/tab-items/manga-extra-info.php:91
+#: template/tab-items/manga-extra-info.php:135
+msgid "separate with commas"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:114
+#: template/tab-items/manga-extra-info.php:86
+msgid "Artists"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:153
+#: template/tab-items/manga-extra-info.php:67
+msgid "Release Year"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:165
+#: template/tab-items/manga-extra-info.php:52
+msgid "Status"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:170
+#: template/tab-items/manga-extra-info.php:57
+msgid "On Going"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:173
+#: template/tab-items/manga-extra-info.php:60
+msgid "Completed"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:185
+#: template/tab-items/manga-extra-info.php:142
+msgid "Adult Content"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:190
+#: template/tab-items/manga-extra-info.php:151 template/upload-settings.php:31
+#: template/upload-settings.php:125
+msgid "No"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:193
+#: template/tab-items/manga-extra-info.php:154 template/upload-settings.php:30
+#: template/upload-settings.php:124
+msgid "Yes"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:205
+#: template/tab-items/manga-extra-info.php:162
+msgid "Badge"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:224
+msgid "Maximum 5 characters"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:234
+#: template/tab-items/manga-extra-info.php:130
+msgid "Tags"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:262
+#: template/tab-items/manga-extra-info.php:100
+msgid "Genres"
+msgstr ""
+
+#: template/shortcodes/upload_manga.php:294
+msgid "Add new title"
+msgstr ""
+
+#: template/shortcodes/upload_novel.php:156
+msgid "Chapter Content"
+msgstr ""
+
+#: template/shortcodes/upload_novel.php:168
+msgid "Add Chapter"
+msgstr ""
+
+#: template/tab-items/manga-extra-info.php:31
+msgid "Manga Extra Information"
+msgstr ""
+
+#: template/tab-items/manga-extra-info.php:36
+msgid "Alternative Name"
+msgstr ""
+
+#: template/tab-items/manga-extra-info.php:186
+msgid "SEO - Manga Meta Title"
+msgstr ""
+
+#: template/tab-items/manga-extra-info.php:195
+msgid "SEO - Manga Meta Description"
+msgstr ""
+
+#: template/tab-items/manga-info.php:15
+msgid "Manga Information"
+msgstr ""
+
+#: template/tab-items/manga-info.php:36
+msgid "Featured Image"
+msgstr ""
+
+#: template/tab-items/manga-upload.php:4
+msgid "Manga File"
+msgstr ""
+
+#: template/tab-items/manga-upload.php:18
+msgid "Manga Chapter Type"
+msgstr ""
+
+#: template/tab-items/manga-upload.php:23
+msgid "Images"
+msgstr ""
+
+#: template/tab-items/manga-upload.php:26
+msgid "Text"
+msgstr ""
+
+#: template/tab-items/manga-upload.php:29
+msgid "Video"
+msgstr ""
+
+#: template/tab-items/manga-upload.php:37
+msgid "Upload Manga"
+msgstr ""
+
+#: template/tab-items/manga-upload.php:48
+#, php-format
+msgid "Maximum upload file size: %dMB."
+msgstr ""
+
+#: template/tab-items/manga-upload.php:53
+msgid ""
+"<strong>Please note :</strong> Only .zip file allowed. Zip file should "
+"contain many folders as each Chapter of Manga. Each Chapter folder should "
+"contain content file. <a href=\"#sample-zip-file\"><strong>Show Sample Zip "
+"file.</strong></a>"
+msgstr ""
+
+#: template/tab-items/manga-upload.php:73
+msgid "Manga Preview"
+msgstr ""
+
+#: template/upload-settings.php:21
+msgid "Manga User Upload PRO - Settings"
+msgstr ""
+
+#: template/upload-settings.php:25
+msgid "Enable Upload Form in \"User Settings\" page"
+msgstr ""
+
+#: template/upload-settings.php:38
+msgid "Message"
+msgstr ""
+
+#: template/upload-settings.php:44
+msgid ""
+"This message will be displayed in the top of user upload form in \"User "
+"Settings\""
+msgstr ""
+
+#: template/upload-settings.php:51
+msgid "Manga (Images Chapter) or Novel/Drama (Text Chapter)?"
+msgstr ""
+
+#: template/upload-settings.php:57
+msgid "Novel/Drama"
+msgstr ""
+
+#: template/upload-settings.php:60
+msgid ""
+"What is your site's main Manga Type? This will be used to show the correct "
+"Upload Chapters form in User Settings page"
+msgstr ""
+
+#: template/upload-settings.php:67
+msgid "Manga - Upload Default Storage"
+msgstr ""
+
+#: template/upload-settings.php:82
+msgid "Change default storage to upload Manga (Images Chapter)"
+msgstr ""
+
+#: template/upload-settings.php:89
+msgid "Default Manga Post Status"
+msgstr ""
+
+#: template/upload-settings.php:94
+msgid "Publish"
+msgstr ""
+
+#: template/upload-settings.php:95
+msgid "Pending"
+msgstr ""
+
+#: template/upload-settings.php:98
+msgid "Change default post status for front-end upload Manga"
+msgstr ""
+
+#: template/upload-settings.php:104
+msgid "Users Roles to upload"
+msgstr ""
+
+#: template/upload-settings.php:112
+msgid "Select User Roles who are allowed to upload Manga in Front-end"
+msgstr ""
+
+#: template/upload-settings.php:119
+msgid "Enable \"Edit Manga\" page in Front-end"
+msgstr ""
+
+#: template/upload-settings.php:128
+msgid "Manga owner and Editor, Administrator roles can edit Manga"
+msgstr ""
+
+#: wp-manga-user-upload.php:156
+msgid "Maximum 5 characters for badge"
+msgstr ""
+
+#: wp-manga-user-upload.php:180
+msgid "Remove image"
+msgstr ""
+
+#: wp-manga-user-upload.php:181
+msgid "Confirm to remove this image"
+msgstr ""
+
+#: wp-manga-user-upload.php:182
+#, php-format
+msgid "%s cannot be empty"
+msgstr ""
+
+#: wp-manga-user-upload.php:183
+msgid "Please select chapter images"
+msgstr ""
+
+#: wp-manga-user-upload.php:184
+msgid "Chapter number must be numeric"
+msgstr ""
+
+#: wp-manga-user-upload.php:185
+msgid "Select manga"
+msgstr ""
+
+#: wp-manga-user-upload.php:187
+msgid "If you want to create a new volume, please enter volume name"
+msgstr ""
